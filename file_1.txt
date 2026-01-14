@@ -1,1 +1,3 @@
-This is my first file. I forgot to only commit the changes from file 1 so I am making more changes.
+This is my first file.
+I forgot to only commit the changes from file 1 so I am making more changes. 
+Here is another line
